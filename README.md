@@ -111,11 +111,11 @@ Comment transporter l'humanité dans l'espace ?
 
 - **e** avec un structure d'arbre a laquelle on ajoute des contraintes
 
-  le but serait de reflechir a 5000, au lieux que chacun balance son idée, en esperant que quelqun d'autre la reprenne etc .. le but serait d'avoir un "raisonement participatif" pour cela, la cadre de la reflexion a besoin d'avoir des contraintes pour que ça soit cadré
-  L'idée est de prendre le principe de l'arbre, en rajoutant une contrainte: On ne peut creer qu'un nouvelle generation de "branches" que toutes les jours (par exemple), le cadre de la reflexion devient tres stricte, mais a 5000 on est obligé donc le systeme marcherait comme ça:
+  le but serait de reflechir a 5000, au lieux que chacun lance son idée, en esperant que quelqun d'autre la reprenne,  le but serait ici d'avoir un "raisonement participatif" pour cela, le systeme a besoin d'avoir des contraintes pour qu'il soit cadré
+  L'idée est de prendre le principe de l'arbre, en rajoutant une contrainte: On ne peut creer qu'un nouvelle generation de "branches" que tous les jours (par exemple), le cadre de la reflexion devient tres stricte, mais a 5000 on est obligé, donc le systeme marcherait comme ça:
  
   **1er Jour**: les premieres idées sont données, on ne peut que creer des nouveaux sujets
-    exemple precedent, *il peut exister des doublons* :
+    avec l'exemple precedent, *il peut exister des doublons* :
     
     Comment transporter l'humanité dans l'espace ?  
 ├── Ascenceurs spatiaux  
